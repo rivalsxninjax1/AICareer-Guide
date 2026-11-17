@@ -1,9 +1,4 @@
-Perfect 👍 since it’s a PHP project, here’s a complete beginner-friendly README you can directly paste into your GitHub repo.
 
-It assumes the project name is AICareer-Guide, but you can change it later if needed.
-Every step is written so that even someone with zero technical knowledge can follow it and successfully run your PHP project locally.
-
-⸻
 
 🧠 AICareer-Guide
 
